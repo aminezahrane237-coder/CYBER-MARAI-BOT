@@ -1,7 +1,7 @@
 {
-  "name": "CYBER",
+  "name": "SASUKU",
   "version": "10.1.1",
-  "description": "MODE BY CYBER-RAJIB",
+  "description": "MODE BY SASUKU-LINA",
   "main": "CYBER.js",
   "engines": {
       "node": "20.x",
@@ -19,14 +19,14 @@
   "keywords": [
       "bot",
       "facebook",
-      "projectcyber",
+      "projectsasuku",
       "messenger",
       "javascript",
-      "islamick",
-      "cyber",
+      "linazn",
+      "sasuku",
       "chat"
   ],
-  "author": "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭",
+  "author": "𝐁𝐎𝐓 𝐒𝐀𝐒𝐔𝐊𝐔-𝐋𝐢𝐧𝐚",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/muslimhakcerbd/Up-try-mri/issues"
